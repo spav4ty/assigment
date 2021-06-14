@@ -1,0 +1,9 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+    align-items: center;
+    font-size: calc(1rem + 1.23vw)
+}
